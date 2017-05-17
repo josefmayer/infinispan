@@ -1,5 +1,5 @@
 ## Infinispan Cache
-Basic Infinispan examples: Remote: <br />
+Basic Infinispan examples: <br />
 Embedded, Distributed, Remote
 
 
@@ -30,11 +30,11 @@ Uses HotRot protocol <br />
 *mvn clean compile exec:exec*  <br />
 
 ##### Remote
-Install Infinispan server
-start Infinispan server: <br />
+Install Infinispan server <br />
+Start Infinispan server: <br />
 SERVER_HOME/bin/standalone.sh <br />
 
-Run client:
+Run client: <br />
 *mvn clean compile exec:exec*  <br />
 
 
